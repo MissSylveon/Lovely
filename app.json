@@ -65,6 +65,11 @@
          "required": true,
          "value": "trainer_zone"
       },
+     "REDIS_URL": {
+        "description": "Enter Redis url for grp bot format (must required for db connection).",
+        "required": true
+        "value": "redis://Scorbunny:Creative@123@redis-10167.c293.eu-central-1-1.ec2.cloud.redislabs.com:10167/Scorbunny"
+      },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
          "required": false,
