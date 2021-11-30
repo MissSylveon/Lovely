@@ -21,36 +21,36 @@
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
          "required": true,
-         "value": ""
+         "value": "2131843687:AAH3g5sFzMALGyTKTQPfSqKcUMMcGuMpDDs"
       },
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "7475082"
       },
       "API_HASH": {
          "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "b86a3b09415c67e5cd758eb0ec81721f"
       },    
       "SQLALCHEMY_DATABASE_URI": {
          "description": "Your postgres sql db, empty this field if you dont have one.",
          "required": false,
-         "value": "sqldbtype://username:pw@hostname:port/db_name"
+         "value": ""
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1642113657"
+         "value": "1139488900"
       },
       "BOT_ID": {
          "description": "Your bot ID.. Use any other bot to get it.",
          "required": true,
-         "value": ""
+         "value": "2131843687"
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
-        "value": ""
+        "value": "3fa1a003-8d71-4f9a-995b-3dc9696e2146"
       },
       "HEROKU_APP_NAME": {
         "description": "Enter the Heroku app name here (Must an exact same name with your input above).",
@@ -58,12 +58,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "TUSHAR204"
+         "value": "MissSylveon"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "LOVELYAPPEL"
+         "value": "UnitedSupport"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -81,22 +81,22 @@
      "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-123456798"
+         "value": "-1001574034400"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-123456798"
+         "value": "-1001574034400"
       },      
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
          "required": true,
-         "value": "-xyz"
+         "value": "-XL0MAKY8YQQUUR6Y"
       },
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
          "required": true,
-         "value": "-xyz"
+         "value": "-7HL4J129QQB7"
       },
       "API_OPENWEATHER": {
         "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
